@@ -1,0 +1,157 @@
+body {
+	background-color: black;
+	max-width: 100% !important;
+
+		
+}
+
+#containerbody {
+	border: 1px solid red;
+	width: 100%;
+}
+
+nav {
+height: 120px;
+}
+
+#logo {
+	height: 100px;
+	margin-left: 70px;
+	margin-top: 50px;
+
+}
+
+nav ul li {
+	display: inline;
+	color: white;
+	margin-left: 70px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 1.5em;
+
+
+	
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: white;
+}
+
+nav ul li a:hover {
+	text-decoration: none;
+	color: white;
+	font-weight: bolder;
+}
+
+
+#navbar {
+	margin-left: 950px;
+	margin-top: -100px;
+	font-size: 1em;
+}
+
+.jumbotron {
+	background-color: black;
+}
+
+.container {
+	margin-left: 900px;
+	margin-right: 600px;
+	margin-top: 100px;
+}
+
+#cdcover {
+	margin-left: 200px;
+	margin-top: -250px;
+}
+
+h1 {
+	font-family: 'Anton', sans-serif;
+	color: white;
+}
+
+.btn {
+	border-color: white;
+	color: white;
+	margin-top: 30px;
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.btn:hover {
+	font-weight: bold !important;
+	text-decoration: none;
+	color: white;
+	border: 1.3px solid white;
+}
+
+#stop {
+	margin-left: 10px;
+}
+
+#parrafo1 {
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 1.3em;
+}
+
+h2 {
+	font-family: 'Anton', sans-serif;
+	color: white;
+	font-size: 4em;
+	text-align: center;
+	margin-top: 150px;
+
+}
+
+#news {
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 100px;
+}
+
+#news1, #news2, #news3 {
+	width: 270px;
+	-webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+}
+
+#news1, #news2, #news3:hover {
+	filter: none;
+
+}
+
+
+h3 { 
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: bolder;
+}
+
+p {
+	color: white;
+	font-size: 0.9m;
+	text-align: justify;
+}
+
+#textonews1 {
+	margin-left: 300px;
+	margin-top: -200px;
+	padding: 20px;
+	
+}
+
+#audio1 {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
